@@ -17,7 +17,7 @@ reddit_thumbnail_html = Template("""
     <style>
     h1 { font-size: 100px !important; }
     .subtitle { font-size: 48px !important; }
-    </style>
+    </style
   </head>
   <body>
   <section class="section">
